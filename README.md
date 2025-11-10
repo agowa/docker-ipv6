@@ -212,3 +212,9 @@ systemctl daemon-reload
 systemctl stop docker
 systemctl start docker
 ```
+
+## See also
+
+* [Public IPv6 on containers](https://discuss.linuxcontainers.org/t/public-ipv6-on-containers/17338) — with some solutions.
+   + result published into [Using public IPv6 with LXD containers](https://blog.sifrmoja.xyz/posts/public-ipv6-lxd/): Mikrotik RouterOS, Ubuntu.
+* [Routable IPV6 with prefix delegation](https://discuss.linuxcontainers.org/t/routable-ipv6-with-prefix-delegation/20129) — a question, no answers.
